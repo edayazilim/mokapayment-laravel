@@ -2,6 +2,7 @@
     "name": "paradiseofcode/mokapayment-laravel",
     "description": "Moka Payment Method of Laravel",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Erhan NACAR",
